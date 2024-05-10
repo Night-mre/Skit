@@ -6,35 +6,66 @@ HQ- Only Harry should know the answer
 TQ- Only Tej should know the answer  
 AQ- Everyone should know the answer  
 
-BQ. Why did Bennet not use his card or use cash that he already had?  
-→ Bennet ran out of money in cash and his card was at home
+BQ. Why did __Bennet not use his card or use cash__ that he already had?  
+→ Bennet __ran out of cash__ and his __card was at home__
 
-BQ Why did Bennet get exactly 7 litres of petrol?  
-→ it was the minimum amount of petrol I needed to go to the doctor and head back  
+BQ Why did __Bennet get exactly 7 litres of petrol__?  
+→ it was the __minimum amount of petrol he needed to go to the hospital and head back__  
 
-AQ Which Hospital did Bennet go to?  
-→ Aster Hospital  
+AQ Which __Hospital__ did __Bennet__ go to?  
+→ __Aster Hospital__  
 
-AQ. Where is the McDonald's located?  
-→ Al Nahda 2, Sharjah  
+AQ. __Where is the McDonald's__ located?  
+→ __Al Nahda__ 2, __Sharjah__  
 
-AQ. Where is the Aster Hospital located?  
-→ Mankhool  
+AQ. __Where is the Aster Hospital__ located?  
+→ __Mankhool__  
 
-BQ. How much did Bennet's appointment cost?  
-→ ~AED700  
+BQ. __How much__ did __Bennet's appointment__ cost?  
+→ __~AED700__  
 
-AQ. What’s Bennet's car number?  
-→ A101110  
+AQ. What’s __Bennet's car number__?  
+→ __A101110__  
 
-AQ. What's Bennet's car colour?
-→ red
+AQ. What's __Bennet's car colour__?  
+→ __red__
 
-AQ. What car does Bennet have?
-→ A red Toyota Corolla
+AQ. __What car does Bennet__ have?  
+→ A __red Toyota Corolla__
 
-AQ. Why did Bennet not go home to get his card?
-→ He lives quite far away from the Mc Donald's as compared to the bank, and it was a state of emergence.
+AQ. Why did __Bennet not go home to get his card__?  
+→ He __lives quite far away from the Mc Donald's__ as compared to the bank, and it was a state of emergency.
 
+SQ. Why did __Siddhaarth not use card__?  
+→ __Didn’t have enough money__ in the card.
 
+AQ. __Which hospital did Siddhaarth__ go to?  
+→ __NMC Hospital__
 
+AQ. __Where is the NMC hospital__ located?  
+→ __Al Karamah__
+
+SQ. How did Siddhaarth get to the Hospital?  
+→ Siddhaarth took __RTA bus F31__  
+AQ→ He took F31 _OR_ I don't know which bus goes to Karamah
+
+AQ. __How old__ is __Siddhaarth's sister__?  
+→ __19__ _OR_ I don't know, he never talked about his sister
+
+AQ. __How old__ is __Siddhaarth's mother__?  
+→ __57__ _OR_ I don't know, he never talked about his mother
+
+SQ. What is __Siddhaarth's mother’s Hospital room number__?  
+→ __Room 3__
+
+SQ. What __type of bus__ did Siddhaarth take to the Hospital?  
+→ __A double-decker bus__.  
+AQ→ I don't know I wasn't there with him _OR_ All F31 buses are double-decker
+
+AQ. What is Siddhaarth's mother's name?  
+→ Her name is __Devyani__.
+→ Siddhaarth never told me
+
+AQ. What's Siddhaarth's sister's name?  
+→ Her name is __Vedha__.
+→ Siddhaarth never told me
