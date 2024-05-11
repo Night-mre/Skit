@@ -6,11 +6,45 @@ HQ- Only Harry should know the answer
 TQ- Only Tej should know the answer  
 AQ- Everyone should know the answer  
 
+
+AQ Introduce yourself.  
+→ answer from the info given
+
+AQ why were you at the bank?  
+→ given in the info section
+
+AQ. what __colour__ is __Tej's car__?  
+→ __Yellow Nissan Sunny__
+
+AQ. What's __Tej's car number__?  
+→ __A202220__
+
+AQ. What is __Tej's side occupation__?
+→ He works as a __Chemistry tuition teacher__.
+
+AQ. How many __years has Nial worked in the McD/Security systems__?
+→ __7 years__
+
+AQ. What did you eat for breakfast?
+→ Tea _OR_ Waffles _OR_ Pancakes
+
+AQ. What did you eat for lunch/dinner?
+→ Rice _OR_ Noodles
+
+AQ. What did X eat for breakfast/lunch/dinner?
+→ I don't know, I wasn't at his house
+
+AQ. What were you wearing at the day of the robbery?
+→ Put in any attire you like
+
+AQ. What was X wearing on the day of the Robbery?
+→ I don't know I didn't pay attention
+
 BQ. Why did __Bennet not use his card or use cash__ that he already had?  
 → Bennet __ran out of cash__ and his __card was at home__
 
 AQ. What __college__ does __Bennet study at__?  
-→ __Oxford COllege__
+→ __Oxford College__
 
 BQ. __Who Bennet's doctor__?  
 → __Dr. Aiman Muhammad__
@@ -69,7 +103,7 @@ SQ. What is __Siddhaarth's mother’s Hospital room number__?
 
 SQ. What __type of bus__ did Siddhaarth take to the Hospital?  
 → __A double-decker bus__.  
-AQ→ I don't know I wasn't there with him _OR_ All F31 buses are double-decker
+AQ→ I don't know I wasn't there with him
 
 AQ. What is Siddhaarth's mother's name?  
 → Her name is __Devyani__.
@@ -79,5 +113,5 @@ AQ. What's Siddhaarth's sister's name?
 → Her name is __Vedha__.
 → Siddhaarth never told me.
 
-AQ. What __college__ does __Nial study at__?
-→ __Cmbridge College__
+AQ. What __college__ does __Hussain study at__?
+→ __Harvard College__

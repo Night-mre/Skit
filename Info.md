@@ -32,6 +32,7 @@ he reaches the hospital at __3:45pm__
 ## Nial:
 age __30__  
 __Full-time Security Guard__ at Mc Donald's  
+Has learned everything abt Security systems
 his shift ends at __3:00pm__  
 __withdrew his salary at the bank__  
 left McD at __2:50pm__  
@@ -46,11 +47,12 @@ he orders a __medium rare steak__ and __Biryani__
 Total bill of his order is __AED150__  
 leaves the restaurant at __4:40pm__  
 __heads back to McD to finish his shift at 5:00pm__  
-__he uses Bennet's red Toyota Carolla to go the restaurant__
+__he uses Bennet's red Toyota Corolla to go the restaurant__
 
 
 ## Harry:
 Is a __part-time waiter at McD__  
+fired from the __CIA__
 age __22__  
 left McD at __2:15pm__  
 he __walked to the bank__  
@@ -65,7 +67,16 @@ reaches McD at __5:00pm__
 
 ## Tej
 Is a __chef__ at McD  
-leaves McD at 
+leaves McD at __2:30pm__  
+has a __Master's degree in chemicals and bombs__  
+left McD at __2:37pm__
+went to the bank to withdraw __~AED500__  
+left the bank at __3:10pm__  
+went to buy __petrol for his yellow Nissan sunny__
+went __north-east of the bank to the school where he taught extra classes of Chemistry__  
+took classes till __4:30pm__
+headed back to McD at __5:00pm__
+
 
 ## Hussain
 __College Student__  
@@ -76,3 +87,20 @@ has done __multiple courses on security systems__
 Is a __part-time security guard__ at McD  
 Shift starts at __2:00pm__  
 Shift ends at __12:00am__  
+Had a __job interview at 3:45pm__    
+reached the bank at __3:00pm__  
+withdrew __~AED120__ to buy lunch later  
+left the bank at __3:10pm__  
+took __Tej's yellow Nissan sunny__  
+went to __Microsoft HQ to the west of the bank__  
+interview ended at __4:45pm__
+reached back at McD at __5:00pm__
+
+## Random Details to bring up and never mention ever again:
+1. There was a __key__ with the numbers __261__ in the bank  
+2. the __sofa__ at the bank was made of __leather__  
+3. Bennet has a __special id card for Aster hospital__  
+4. the key with the number 261 was on a __red table with flowers__  
+5. __HP computers have good security systems__  
+6. There was a __poster in Bennet's car for a football match__  
+7. The doors at the bank have __ultrasonic sensors__
