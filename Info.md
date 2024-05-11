@@ -51,20 +51,20 @@ __he uses Bennet's red Toyota Carolla to go the restaurant__
 
 ## Harry:
 Is a __part-time waiter at McD__  
-age __22__
+age __22__  
 left McD at __2:15pm__  
-he __walked to the bank__
-reached the bank at __3:00pm__
-left the bank at __3:10pm__
-took __RTA bus F31__ 
-went to watch a __football match east of the bank__
-he reaches the arena at __3:45pm__
-leaves the arena at __4:00pm__
-reaches McD at __5:00pm__
+he __walked to the bank__  
+reached the bank at __3:00pm__  
+left the bank at __3:10pm__  
+took __RTA bus F31__  
+went to watch a __football match east of the bank__  
+he reaches the arena at __3:45pm__  
+leaves the arena at __4:00pm__  
+reaches McD at __5:00pm__  
 
 
 ## Tej
-Is a __chef__ at McD
+Is a __chef__ at McD  
 leaves McD at 
 
 ## Hussain
