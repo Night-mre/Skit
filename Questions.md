@@ -9,6 +9,15 @@ AQ- Everyone should know the answer
 BQ. Why did __Bennet not use his card or use cash__ that he already had?  
 → Bennet __ran out of cash__ and his __card was at home__
 
+AQ. What __college__ does __Bennet study at__?  
+→ __Oxford COllege__
+
+BQ. __Who Bennet's doctor__?  
+→ __Dr. Aiman Muhammad__
+
+SQ. __Who is Siddhaarth's mother's doctor__?
+→ __Dr. Vineeth__
+
 BQ Why did __Bennet get exactly 7 litres of petrol__?  
 → it was the __minimum amount of petrol he needed to go to the hospital and head back__  
 
@@ -68,4 +77,7 @@ AQ. What is Siddhaarth's mother's name?
 
 AQ. What's Siddhaarth's sister's name?  
 → Her name is __Vedha__.
-→ Siddhaarth never told me
+→ Siddhaarth never told me.
+
+AQ. What __college__ does __Nial study at__?
+→ __Cmbridge College__
